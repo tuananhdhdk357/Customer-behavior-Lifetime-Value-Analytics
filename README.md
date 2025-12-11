@@ -78,13 +78,4 @@ Dự án đã xác định được 4 phân khúc khách hàng chính, với **[
 
 ---
 
-## 🔗 Liên kết
 
-* [Link đến Dashboard Power BI/Tableau (Tùy chọn)]
-* [Link đến Code Python chi tiết (File Jupyter Notebook/Python Script)]
-
-## ✉️ Liên hệ
-
-* **Tên:** [Tên của bạn]
-* **Email:** [Email của bạn]
-* **LinkedIn:** [Link LinkedIn của bạn]
